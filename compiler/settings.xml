@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--项目常用编译开关-->
+<flex-config>
+	<!--输出SWF版本号-->	
+	<target-player>10.0.0</target-player>
+	
+	<compiler>		
+		<!--DEBUG编译开关-->
+		<debug>false</debug>
+		
+		<!--严格语法编译开关-->
+		<strict>true</strict>
+		
+		<!--编译优化开关-->
+		<optimize>true</optimize>
+		
+		<!--增量编译开关-->
+		<incremental>false</incremental>
+		
+	</compiler>
+
+</flex-config>
